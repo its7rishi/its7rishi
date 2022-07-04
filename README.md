@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @its7rishi
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ReactJs and Python
+- 🌱 I’m currently learning ReactJs and NodeJS
 - 💞️ I’m looking to collaborate on HTML, CSS, JavaScript, ReactJs
 - 📫 How to reach me at saptarshi.maj@yahoo.com
 
